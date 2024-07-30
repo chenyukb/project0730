@@ -1,0 +1,7 @@
+on: workflow_dispatch
+jobs:
+  demo:
+    name: job的名字
+    runs-on: ubuntu-22.04
+    steps:
+      - run: echo abcd

@@ -9,3 +9,10 @@ jobs:
       - run: echo abcd333
       - name: aaa
       - name: bbb
+  demo:
+    name: job的名字
+    runs-on: ubuntu-22.04
+    steps:
+      - run: echo abcd333
+      - name: aaa
+      - name: bbb

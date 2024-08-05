@@ -3,7 +3,7 @@ fxxk-name: shjsh
 on: 
   workflow_dispatch：
   push:
-    branches: main
+    main
 jobs:
   demo:
     name: job的名字

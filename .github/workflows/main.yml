@@ -1,4 +1,5 @@
 name: workflow的名字。
+fxxk-name: shjsh
 on: workflow_dispatch
 jobs:
   demo:

@@ -2,8 +2,7 @@ name: workflow的名字。
 fxxk-name: shjsh
 on: 
   workflow_dispatch：
-  push:
-    main
+  p
 jobs:
   demo:
     name: job的名字
